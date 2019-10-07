@@ -8,4 +8,4 @@ For now you can control the little boy with the arrow keys and should try to nav
 If that happens you win the Game, an alert will pop up and the little boy is back on his starting position. If you collide with a bug
 he will also be resetted to his starting position.
 
-![Screenshot](/images/screenshot.png?raw=true)
+![Screenshot](/images/Screenshot.png)
